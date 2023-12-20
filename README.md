@@ -3,6 +3,7 @@
 <h2> Certifications</h2>
 
  - [Google IT Support](https://www.coursera.org/account/accomplishments/professional-cert/TWGBPR97R9PH)
+ - [Coding Dojo](https://app.diplomasafe.com/en-US/diploma/d731ee2ff9c64f402302f4a14ced1636af3c13cb6)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
