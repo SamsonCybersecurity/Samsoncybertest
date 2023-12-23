@@ -7,6 +7,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+ - [TryHackMe | Pickle Rick CTF](https://github.com/SamsonCybersecurity/TryHackMe-Pickle-Rick-CTF)
+ 
 
 <h2> 🤳 Connect with me:</h2>
 
